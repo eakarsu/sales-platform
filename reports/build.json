@@ -1,0 +1,9 @@
+{
+  "app": "sales-platform",
+  "features": 247,
+  "sourceApps": 13,
+  "calculatorEngines": 0,
+  "registryHash": "5641063ac1c196259783acdf113988ca33d20705963310968767375ca393fd7a",
+  "builtAt": "2026-09-07T22:06:09.772Z",
+  "status": "built"
+}

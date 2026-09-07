@@ -1,0 +1,520 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "real-time-meeting-transcript-analysis",
+      "knowledge",
+      "call-transcript-analyzer",
+      "crm-email-sync"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 7 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "real-time-meeting-transcript-analysis",
+        "title": "Real time meeting transcript analysis",
+        "originalPath": "/features/real-time-meeting-transcript-analysis"
+      },
+      {
+        "id": "knowledge",
+        "title": "Knowledge Base",
+        "originalPath": "/features/knowledge"
+      },
+      {
+        "id": "call-transcript-analyzer",
+        "title": "Call Transcript Analyzer",
+        "originalPath": "/features/call-transcript-analyzer"
+      },
+      {
+        "id": "crm-email-sync",
+        "title": "Email sync",
+        "originalPath": "/features/crm-email-sync"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "customer-implementation-success-manager",
+      "compensation-plan-versioning",
+      "employee-and-territory-registry",
+      "quota-and-target-management",
+      "crm-opportunity-ingestion",
+      "split-and-overlay-calculation",
+      "accelerator-calculation",
+      "product-and-strategic-bonus",
+      "draw-and-guarantee-tracking",
+      "statement-generation",
+      "representative-dispute-workflow",
+      "assistant",
+      "deal-momentum",
+      "ai-live-conversation-coaching-calls",
+      "ai-competitive-positioning-dashboard",
+      "customer-reviews",
+      "chat",
+      "escalation",
+      "shopping",
+      "faq-builder",
+      "leads",
+      "runtime-ai-result",
+      "playground",
+      "legal-review-automator"
+    ],
+    "ai": true,
+    "representativeId": "customer-implementation-success-manager",
+    "description": "One assistant for 24 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "customer-implementation-success-manager",
+        "title": "Customer implementation success manager work",
+        "originalPath": "/features/customer-implementation-success-manager"
+      },
+      {
+        "id": "compensation-plan-versioning",
+        "title": "Compensation plan versioning",
+        "originalPath": "/features/compensation-plan-versioning"
+      },
+      {
+        "id": "employee-and-territory-registry",
+        "title": "Employee and territory registry",
+        "originalPath": "/features/employee-and-territory-registry"
+      },
+      {
+        "id": "quota-and-target-management",
+        "title": "Quota and target management",
+        "originalPath": "/features/quota-and-target-management"
+      },
+      {
+        "id": "crm-opportunity-ingestion",
+        "title": "CRM opportunity ingestion",
+        "originalPath": "/features/crm-opportunity-ingestion"
+      },
+      {
+        "id": "split-and-overlay-calculation",
+        "title": "Split and overlay calculation",
+        "originalPath": "/features/split-and-overlay-calculation"
+      },
+      {
+        "id": "accelerator-calculation",
+        "title": "Accelerator calculation",
+        "originalPath": "/features/accelerator-calculation"
+      },
+      {
+        "id": "product-and-strategic-bonus",
+        "title": "Product and strategic bonus",
+        "originalPath": "/features/product-and-strategic-bonus"
+      },
+      {
+        "id": "draw-and-guarantee-tracking",
+        "title": "Draw and guarantee tracking",
+        "originalPath": "/features/draw-and-guarantee-tracking"
+      },
+      {
+        "id": "statement-generation",
+        "title": "Statement generation",
+        "originalPath": "/features/statement-generation"
+      },
+      {
+        "id": "representative-dispute-workflow",
+        "title": "Representative dispute workflow",
+        "originalPath": "/features/representative-dispute-workflow"
+      },
+      {
+        "id": "assistant",
+        "title": "AI Assistant",
+        "originalPath": "/features/assistant"
+      },
+      {
+        "id": "deal-momentum",
+        "title": "Deal momentum",
+        "originalPath": "/features/deal-momentum"
+      },
+      {
+        "id": "ai-live-conversation-coaching-calls",
+        "title": "Live conversation coaching calls",
+        "originalPath": "/features/ai-live-conversation-coaching-calls"
+      },
+      {
+        "id": "ai-competitive-positioning-dashboard",
+        "title": "Competitive positioning dashboard",
+        "originalPath": "/features/ai-competitive-positioning-dashboard"
+      },
+      {
+        "id": "customer-reviews",
+        "title": "Customer reviews",
+        "originalPath": "/features/customer-reviews"
+      },
+      {
+        "id": "chat",
+        "title": "AI Chat",
+        "originalPath": "/features/chat"
+      },
+      {
+        "id": "escalation",
+        "title": "Escalation Router",
+        "originalPath": "/features/escalation"
+      },
+      {
+        "id": "shopping",
+        "title": "Shopping Assistant",
+        "originalPath": "/features/shopping"
+      },
+      {
+        "id": "faq-builder",
+        "title": "AI FAQ Builder",
+        "originalPath": "/features/faq-builder"
+      },
+      {
+        "id": "leads",
+        "title": "Governed leads",
+        "originalPath": "/features/leads"
+      },
+      {
+        "id": "runtime-ai-result",
+        "title": "Runtime ai result",
+        "originalPath": "/features/runtime-ai-result"
+      },
+      {
+        "id": "playground",
+        "title": "AI Playground",
+        "originalPath": "/features/playground"
+      },
+      {
+        "id": "legal-review-automator",
+        "title": "Legal review automator",
+        "originalPath": "/features/legal-review-automator"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "booking-and-invoice-reconciliation"
+    ],
+    "ai": true,
+    "representativeId": "booking-and-invoice-reconciliation",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "booking-and-invoice-reconciliation",
+        "title": "Booking and invoice reconciliation",
+        "originalPath": "/features/booking-and-invoice-reconciliation"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "crediting-rule-application",
+      "payroll-reconciliation",
+      "underpayment-recovery",
+      "plan-cost-and-behavior-analytics",
+      "refund-escalation-predictor",
+      "budget-cycle-predictor",
+      "revenue-forecast"
+    ],
+    "ai": true,
+    "representativeId": "crediting-rule-application",
+    "description": "One assistant for 7 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "crediting-rule-application",
+        "title": "Crediting-rule application",
+        "originalPath": "/features/crediting-rule-application"
+      },
+      {
+        "id": "payroll-reconciliation",
+        "title": "Payroll reconciliation",
+        "originalPath": "/features/payroll-reconciliation"
+      },
+      {
+        "id": "underpayment-recovery",
+        "title": "Underpayment recovery",
+        "originalPath": "/features/underpayment-recovery"
+      },
+      {
+        "id": "plan-cost-and-behavior-analytics",
+        "title": "Plan cost and behavior analytics",
+        "originalPath": "/features/plan-cost-and-behavior-analytics"
+      },
+      {
+        "id": "refund-escalation-predictor",
+        "title": "Refund escalation predictor",
+        "originalPath": "/features/refund-escalation-predictor"
+      },
+      {
+        "id": "budget-cycle-predictor",
+        "title": "Budget cycle predictor",
+        "originalPath": "/features/budget-cycle-predictor"
+      },
+      {
+        "id": "revenue-forecast",
+        "title": "Revenue forecast",
+        "originalPath": "/features/revenue-forecast"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "cancellation-and-clawback-validation",
+      "workflow-approval-gates-compliance-review",
+      "quality",
+      "security-questionnaires"
+    ],
+    "ai": true,
+    "representativeId": "cancellation-and-clawback-validation",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "cancellation-and-clawback-validation",
+        "title": "Cancellation and clawback validation",
+        "originalPath": "/features/cancellation-and-clawback-validation"
+      },
+      {
+        "id": "workflow-approval-gates-compliance-review",
+        "title": "Workflow approval gates compliance review",
+        "originalPath": "/features/workflow-approval-gates-compliance-review"
+      },
+      {
+        "id": "quality",
+        "title": "Quality Scorer",
+        "originalPath": "/features/quality"
+      },
+      {
+        "id": "security-questionnaires",
+        "title": "Security questionnaires",
+        "originalPath": "/features/security-questionnaires"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "forecasts",
+      "objection-predictor",
+      "ai-account-tier-scoring-icp",
+      "ai-competitor-win-loss-analysis",
+      "predictions",
+      "forecast-confidence",
+      "predictive-m-a-detection",
+      "win-loss-analysis-automation",
+      "market-analysis",
+      "swot-analysis",
+      "classifier",
+      "predictor",
+      "ticket-priority-predictor",
+      "closure-predictor",
+      "predict-resolution",
+      "crm-forecasting",
+      "agent-performance-prediction"
+    ],
+    "ai": true,
+    "representativeId": "forecasts",
+    "description": "One assistant for 17 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "forecasts",
+        "title": "Pipeline Forecast",
+        "originalPath": "/features/forecasts"
+      },
+      {
+        "id": "objection-predictor",
+        "title": "Objection predictor",
+        "originalPath": "/features/objection-predictor"
+      },
+      {
+        "id": "ai-account-tier-scoring-icp",
+        "title": "Account tier scoring icp",
+        "originalPath": "/features/ai-account-tier-scoring-icp"
+      },
+      {
+        "id": "ai-competitor-win-loss-analysis",
+        "title": "Competitor win loss analysis",
+        "originalPath": "/features/ai-competitor-win-loss-analysis"
+      },
+      {
+        "id": "predictions",
+        "title": "Predictions",
+        "originalPath": "/features/predictions"
+      },
+      {
+        "id": "forecast-confidence",
+        "title": "Forecast confidence",
+        "originalPath": "/features/forecast-confidence"
+      },
+      {
+        "id": "predictive-m-a-detection",
+        "title": "Predictive m a detection",
+        "originalPath": "/features/predictive-m-a-detection"
+      },
+      {
+        "id": "win-loss-analysis-automation",
+        "title": "Win loss analysis automation",
+        "originalPath": "/features/win-loss-analysis-automation"
+      },
+      {
+        "id": "market-analysis",
+        "title": "Market analysis",
+        "originalPath": "/features/market-analysis"
+      },
+      {
+        "id": "swot-analysis",
+        "title": "Swot analysis",
+        "originalPath": "/features/swot-analysis"
+      },
+      {
+        "id": "classifier",
+        "title": "Ticket Classifier",
+        "originalPath": "/features/classifier"
+      },
+      {
+        "id": "predictor",
+        "title": "Resolution Predictor",
+        "originalPath": "/features/predictor"
+      },
+      {
+        "id": "ticket-priority-predictor",
+        "title": "Ticket Priority Predictor",
+        "originalPath": "/features/ticket-priority-predictor"
+      },
+      {
+        "id": "closure-predictor",
+        "title": "Ticket Closure Predictor",
+        "originalPath": "/features/closure-predictor"
+      },
+      {
+        "id": "predict-resolution",
+        "title": "Predict resolution",
+        "originalPath": "/features/predict-resolution"
+      },
+      {
+        "id": "crm-forecasting",
+        "title": "Forecasting",
+        "originalPath": "/features/crm-forecasting"
+      },
+      {
+        "id": "agent-performance-prediction",
+        "title": "Agent performance prediction",
+        "originalPath": "/features/agent-performance-prediction"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "ai-multilingual-outreach-generation",
+      "seo-analysis",
+      "churn-risk",
+      "predictive-customer-churn",
+      "calls-voice-lack-analyze-call-sentiment-or-extract-call-tran",
+      "outreach",
+      "ownership-reviews",
+      "outreach-review"
+    ],
+    "ai": true,
+    "representativeId": "ai-multilingual-outreach-generation",
+    "description": "One assistant for 8 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "ai-multilingual-outreach-generation",
+        "title": "Multilingual outreach generation",
+        "originalPath": "/features/ai-multilingual-outreach-generation"
+      },
+      {
+        "id": "seo-analysis",
+        "title": "Seo analysis",
+        "originalPath": "/features/seo-analysis"
+      },
+      {
+        "id": "churn-risk",
+        "title": "Churn Risk Analyzer",
+        "originalPath": "/features/churn-risk"
+      },
+      {
+        "id": "predictive-customer-churn",
+        "title": "Predictive customer churn",
+        "originalPath": "/features/predictive-customer-churn"
+      },
+      {
+        "id": "calls-voice-lack-analyze-call-sentiment-or-extract-call-tran",
+        "title": "Calls voice lack analyze call sentiment or extract call tran",
+        "originalPath": "/features/calls-voice-lack-analyze-call-sentiment-or-extract-call-tran"
+      },
+      {
+        "id": "outreach",
+        "title": "Outreach review",
+        "originalPath": "/features/outreach"
+      },
+      {
+        "id": "ownership-reviews",
+        "title": "Lead ownership reviews",
+        "originalPath": "/features/ownership-reviews"
+      },
+      {
+        "id": "outreach-review",
+        "title": "Outreach review records",
+        "originalPath": "/features/outreach-review"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "History",
+        "originalPath": "/features/history"
+      }
+    ]
+  }
+]

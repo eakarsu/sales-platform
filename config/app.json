@@ -1,0 +1,41 @@
+{
+  "id": "sales-platform",
+  "title": "Sales, CRM & customer success",
+  "buyer": "Sales and customer-success teams",
+  "sourceCount": 13,
+  "sources": [
+    "ai-customer-implementation-success-manager",
+    "ai-sales-commission-incentive-compensation-audit",
+    "ai-sales-outreach",
+    "AIChurnPredictionSystem",
+    "AICompetitiveAnalysisTool",
+    "AiCustomerSupportAgent",
+    "leads",
+    "linkedin",
+    "luranAI",
+    "microsoftDynamics",
+    "referral",
+    "startups-selling-to-huge-companies",
+    "financialServices_salesforce"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46054,
+  "productName": "Sales, CRM Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-customer-implementation-success-manager",
+    "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit",
+    "/Volumes/external/projects/ai-sales-outreach",
+    "/Volumes/external/projects/AIChurnPredictionSystem",
+    "/Volumes/external/projects/AICompetitiveAnalysisTool",
+    "/Volumes/external/projects/AiCustomerSupportAgent",
+    "/Volumes/external/projects/leads",
+    "/Volumes/external/projects/linkedin",
+    "/Volumes/external/projects/luranAI",
+    "/Volumes/external/projects/microsoftDynamics",
+    "/Volumes/external/projects/referral",
+    "/Volumes/external/projects/startups-selling-to-huge-companies",
+    "/Volumes/external/projects/financialServices_salesforce"
+  ]
+}

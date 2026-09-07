@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ai-customer-implementation-success-manager",
+    "name": "Customer implementation success manager",
+    "sourceProject": "ai-customer-implementation-success-manager",
+    "services": []
+  },
+  {
+    "id": "ai-sales-commission-incentive-compensation-audit",
+    "name": "Sales commission incentive compensation audit",
+    "sourceProject": "ai-sales-commission-incentive-compensation-audit",
+    "services": []
+  },
+  {
+    "id": "ai-sales-outreach",
+    "name": "Sales outreach",
+    "sourceProject": "ai-sales-outreach",
+    "services": []
+  },
+  {
+    "id": "AIChurnPredictionSystem",
+    "name": "Churn prediction system",
+    "sourceProject": "AIChurnPredictionSystem",
+    "services": []
+  },
+  {
+    "id": "AICompetitiveAnalysisTool",
+    "name": "Competitive analysis tool",
+    "sourceProject": "AICompetitiveAnalysisTool",
+    "services": []
+  },
+  {
+    "id": "AiCustomerSupportAgent",
+    "name": "Customer support agent",
+    "sourceProject": "AiCustomerSupportAgent",
+    "services": []
+  },
+  {
+    "id": "leads",
+    "name": "Leads",
+    "sourceProject": "leads",
+    "services": []
+  },
+  {
+    "id": "linkedin",
+    "name": "Linkedin",
+    "sourceProject": "linkedin",
+    "services": []
+  },
+  {
+    "id": "luranAI",
+    "name": "Luran ai",
+    "sourceProject": "luranAI",
+    "services": []
+  },
+  {
+    "id": "microsoftDynamics",
+    "name": "Microsoft dynamics",
+    "sourceProject": "microsoftDynamics",
+    "services": []
+  },
+  {
+    "id": "referral",
+    "name": "Referral",
+    "sourceProject": "referral",
+    "services": []
+  },
+  {
+    "id": "startups-selling-to-huge-companies",
+    "name": "Startups selling to huge companies",
+    "sourceProject": "startups-selling-to-huge-companies",
+    "services": []
+  },
+  {
+    "id": "financialServices_salesforce",
+    "name": "Financial services salesforce",
+    "sourceProject": "financialServices_salesforce",
+    "services": []
+  }
+]

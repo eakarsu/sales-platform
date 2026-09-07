@@ -1,0 +1,2579 @@
+{
+  "mapped": [
+    {
+      "project": "ai-customer-implementation-success-manager",
+      "sourceKey": "ai-customer-implementation-success-manager",
+      "source": "/Volumes/external/projects/ai-customer-implementation-success-manager",
+      "canonical": "customer-implementation-success-manager",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "compensation-plan-versioning",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "compensation-plan-versioning",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "employee-and-territory-registry",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "employee-and-territory-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "quota-and-target-management",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "quota-and-target-management",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "crm-opportunity-ingestion",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "crm-opportunity-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "booking-and-invoice-reconciliation",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "booking-and-invoice-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "crediting-rule-application",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "crediting-rule-application",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "split-and-overlay-calculation",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "split-and-overlay-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "accelerator-calculation",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "accelerator-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "product-and-strategic-bonus",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "product-and-strategic-bonus",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "cancellation-and-clawback-validation",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "cancellation-and-clawback-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "draw-and-guarantee-tracking",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "draw-and-guarantee-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "statement-generation",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "statement-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "representative-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "representative-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "payroll-reconciliation",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "payroll-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "underpayment-recovery",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "underpayment-recovery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "plan-cost-and-behavior-analytics",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/app.config.mjs",
+      "canonical": "plan-cost-and-behavior-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/campaigns",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/sequences",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "sequences",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/contacts",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/meetings",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "meetings",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/tasks",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai/lead-scores",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "lead-scores",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai/personalizations",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "personalizations",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai/best-times",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "best-times",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai/objections",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "objections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai/reply-triage",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "reply-triage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai/forecasts",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "forecasts",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai/warmup",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "warmup",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai/competitive-intel",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "competitive-intel",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai/playbook",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "playbook",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai/prospect-research",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "prospect-research",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ai-assistant",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/deals",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "deals",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/ab-tests",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "ab-tests",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "/team",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "canonical": "team",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "ai/deal-momentum",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "deal-momentum",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "ai/objection-predictor",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "objection-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/ai-account-tier-scoring-icp",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "ai-account-tier-scoring-icp",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/ai-competitor-win-loss-analysis",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "ai-competitor-win-loss-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/ai-live-conversation-coaching-calls",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "ai-live-conversation-coaching-calls",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/ai-multilingual-outreach-generation",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "ai-multilingual-outreach-generation",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/auto-generated-competitor-battlecards-web",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "auto-generated-competitor-battlecards-web",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/deeper-enrichment-salesforce-einstein-linkedin",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "deeper-enrichment-salesforce-einstein-linkedin",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/limited-custom-field-automation-data",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "limited-custom-field-automation-data",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/multi-channel-asset-library-video",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "multi-channel-asset-library-video",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/qbr-executive-summary-builder",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "qbr-executive-summary-builder",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/real-time-meeting-transcript-analysis",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "real-time-meeting-transcript-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/revenue-attribution-modeling-beyond-simple",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "revenue-attribution-modeling-beyond-simple",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/sales-methodology-playbooks-meddic-sandler",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "sales-methodology-playbooks-meddic-sandler",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/voice-call-coaching-post-call",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "voice-call-coaching-post-call",
+      "kind": "route"
+    },
+    {
+      "project": "ai-sales-outreach",
+      "sourceKey": "gap/workflow-approval-gates-compliance-review",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "canonical": "workflow-approval-gates-compliance-review",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "customers",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "clients",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "predictions",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "predictions",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "risk-scores",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "risk-scores",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "segments",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "segments",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "interventions",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "interventions",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "behavior",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "behavior",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "metrics",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "metrics",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "engagement",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "engagement",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "tickets",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "tickets",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "billing",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "billing",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "sessions",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "sessions",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "nps",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "nps",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "alerts",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "sentiment",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "sentiment",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "journeys",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "journeys",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "winback",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "winback",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "health-dashboard",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "health-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "escalations",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "escalations",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "service-levels",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "service-levels",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "response-suggestions",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "response-suggestions",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "ai-reports",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "cohort-survival",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "cohort-survival",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "intervention-performance",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "intervention-performance",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "churn-triggers",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "churn-triggers",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "winback-orchestration",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "winback-orchestration",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "feature-correlation",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "feature-correlation",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "competitor-intel",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "competitor-intel",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "forecast-confidence",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "forecast-confidence",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "batch-interventions",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "batch-interventions",
+      "kind": "route"
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "sourceKey": "retention-save-desk",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "canonical": "retention-save-desk",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "compliance-agents",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "compliance-agents",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "share-of-voice",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "share-of-voice",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "cf/ai-competitive-positioning-dashboard",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "ai-competitive-positioning-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "cf/predictive-m-a-detection",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "predictive-m-a-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "cf/win-loss-analysis-automation",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "win-loss-analysis-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "cf/real-time-alert-engine",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "real-time-alert-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "cf/vertical-industry-benchmarking",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "vertical-industry-benchmarking",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "competitors",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "competitors",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "market-analysis",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "market-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "swot-analysis",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "swot-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "price-comparison",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "price-comparison",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "product-comparison",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "product-comparison",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "social-media",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "social-media",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "news-trends",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "news-trends",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "customer-reviews",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "customer-reviews",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "seo-analysis",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "seo-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "industry-reports",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "industry-reports",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "ad-tracker",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "ad-tracker",
+      "kind": "route"
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "sourceKey": "hiring-tracker",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "canonical": "hiring-tracker",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/tickets",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "tickets",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/calls",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "calls",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/categories",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "categories",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/tags",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "tags",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/knowledge",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "knowledge",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/canned-responses",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "canned-responses",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/team",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "team",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/ai-chat",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/workforce-transition",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "workforce-transition",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/ai-classifier",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "classifier",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/ai-predictor",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/ai-knowledge",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "knowledge",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/ai-quality",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/ai-escalation",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "escalation",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "/ai-shopping",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "canonical": "shopping",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "ticket-priority-predictor",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "ticket-priority-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "churn-risk",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "churn-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "agent-coaching",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "agent-coaching",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "smart-canned-suggester",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "smart-canned-suggester",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "clv-scoring",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "clv-scoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "faq-builder",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "faq-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "translate",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "translate",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "closure-predictor",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "closure-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "call-transcript-analyzer",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "call-transcript-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "sla-smart-scheduling",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "sla-smart-scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "auto-tag-ticket",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "auto-tag-ticket",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "extract-call-action-items",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/AiAdvancedFeatures.jsx",
+      "canonical": "extract-call-action-items",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "ai-classifier",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "classifier",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "ai-predictor",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "ai-knowledge",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "knowledge",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "ai-quality",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "ai-escalation",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "escalation",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "ai-shopping",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "shopping",
+      "kind": "definition"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "classify-ticket",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "classify-ticket",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "classifications",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "classifications",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "predict-resolution",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "predict-resolution",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "predictions",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "predictions",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "suggest-knowledge",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "suggest-knowledge",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "knowledge-suggestions",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "knowledge-suggestions",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "score-quality",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "score-quality",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "quality-scores",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "quality-scores",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "route-escalation",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "route-escalation",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "escalation-routings",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "escalation-routings",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "shopping-chat",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "shopping-chat",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "shopping-conversations",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "shopping-conversations",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "products",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "products",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "orders",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "orders",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "refund-escalation-predictor",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "refund-escalation-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "crm",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "crm",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "crm/contacts",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "crm/accounts",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "crm-accounts",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "crm/opportunities",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "crm-opportunities",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "crm/pipeline-stages",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "crm-pipeline-stages",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "crm/activities",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "crm-activities",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "crm/email-sync",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "crm-email-sync",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "crm/calendar-sync",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "crm-calendar-sync",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "crm/quotes",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "crm-quotes",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "crm/forecasting",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "crm-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "cf/predictive-customer-churn",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "predictive-customer-churn",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "cf/customer-health-scoring",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "customer-health-scoring",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "cf/agent-performance-prediction",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "agent-performance-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "cf/proactive-support-triggers",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "proactive-support-triggers",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "cf/multi-lingual-support-automation",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "multi-lingual-support-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "gap/calls-voice-lack-analyze-call-sentiment-or-extract-call-tran",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "calls-voice-lack-analyze-call-sentiment-or-extract-call-tran",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "gap/cannedresponses-lacks-auto-generate-canned-response",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "cannedresponses-lacks-auto-generate-canned-response",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "gap/categories-tags-lack-ml-based-auto-tagging",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "categories-tags-lack-ml-based-auto-tagging",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "gap/no-live-chat-widget-for-website-embedding",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "live-chat-widget-for-website-embedding",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "gap/limited-crm-integration-no-salesforce-hubspot-adapter",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "limited-crm-integration-no-salesforce-hubspot-adapter",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "gap/limited-workflow-automation-auto-escalation-auto-close-auto",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "limited-workflow-automation-auto-escalation-auto-close-auto",
+      "kind": "route"
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "sourceKey": "gap/no-payment-billing-module-exposed-stripe-only-stubbed",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "canonical": "payment-billing-module-exposed-stripe-only-stubbed",
+      "kind": "route"
+    },
+    {
+      "project": "leads",
+      "sourceKey": "process",
+      "source": "/Volumes/external/projects/leads/app/entitlements/page.tsx",
+      "canonical": "process",
+      "kind": "definition"
+    },
+    {
+      "project": "leads",
+      "sourceKey": "endDate",
+      "source": "/Volumes/external/projects/leads/app/entitlements/page.tsx",
+      "canonical": "end-date",
+      "kind": "definition"
+    },
+    {
+      "project": "leads",
+      "sourceKey": "casesUsed",
+      "source": "/Volumes/external/projects/leads/app/entitlements/page.tsx",
+      "canonical": "cases-used",
+      "kind": "definition"
+    },
+    {
+      "project": "leads",
+      "sourceKey": "actions",
+      "source": "/Volumes/external/projects/leads/app/entitlements/page.tsx",
+      "canonical": "actions",
+      "kind": "definition"
+    },
+    {
+      "project": "leads",
+      "sourceKey": "/leads",
+      "source": "/Volumes/external/projects/leads/components/DashboardLayout.tsx",
+      "canonical": "leads",
+      "kind": "definition"
+    },
+    {
+      "project": "leads",
+      "sourceKey": "/outreach",
+      "source": "/Volumes/external/projects/leads/components/DashboardLayout.tsx",
+      "canonical": "outreach",
+      "kind": "definition"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "RuntimeAiResult",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "runtime-ai-result",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Post",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "post",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Article",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "article",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Comment",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "comment",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Like",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "like",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Connection",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "connection",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "OutreachPreference",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "outreach-preference",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "ConnectionIdempotency",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "connection-idempotency",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "ConnectionAuditEvent",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "connection-audit-event",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Job",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "job",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "JobApplication",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "job-application",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Message",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "message",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Notification",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "notification",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Story",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "story",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Company",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "company",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "CompanyEmployee",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "company-employee",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Event",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "event",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "EventAttendee",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "event-attendee",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Group",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "group",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "GroupMember",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "group-member",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "GroupPost",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "group-post",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "Course",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "course",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "CourseEnrollment",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "course-enrollment",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesWorkspace",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-workspace",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesMembership",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-membership",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesConnector",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-connector",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesLead",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-lead",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesSyncEvent",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-sync-event",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesConsentEvent",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-consent-event",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesSuppression",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-suppression",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesOutreach",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-outreach",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesOutbox",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-outbox",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesProviderEvent",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-provider-event",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesEngagement",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-engagement",
+      "kind": "schema"
+    },
+    {
+      "project": "linkedin",
+      "sourceKey": "SalesAuditEvent",
+      "source": "/Volumes/external/projects/linkedin",
+      "canonical": "sales-audit-event",
+      "kind": "schema"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/voice-agents",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "voice-agents",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/voice-platform",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "voice-platform",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/sms-campaigns",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "sms-campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/chat-agents",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "chat-agents",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/email-agents",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "email-agents",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/contacts",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/conversations",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "conversations",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/call-logs",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "call-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/appointments",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "appointments",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/campaigns",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/workflows",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "workflows",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/knowledge-base",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "knowledge",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/salesforce",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "salesforce",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/ai-playground",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "playground",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/industries",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "industries",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/organization",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "organization",
+      "kind": "definition"
+    },
+    {
+      "project": "luranAI",
+      "sourceKey": "/white-label",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "canonical": "white-label",
+      "kind": "definition"
+    },
+    {
+      "project": "microsoftDynamics",
+      "sourceKey": "pipeline",
+      "source": "/Volumes/external/projects/microsoftDynamics",
+      "canonical": "deals",
+      "kind": "route"
+    },
+    {
+      "project": "referral",
+      "sourceKey": "leads",
+      "source": "/Volumes/external/projects/referral/server/migrations/001_governed_referral.sql",
+      "canonical": "leads",
+      "kind": "definition"
+    },
+    {
+      "project": "referral",
+      "sourceKey": "ownership-reviews",
+      "source": "/Volumes/external/projects/referral/server/migrations/001_governed_referral.sql",
+      "canonical": "ownership-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "referral",
+      "sourceKey": "outreach-review",
+      "source": "/Volumes/external/projects/referral/server/migrations/001_governed_referral.sql",
+      "canonical": "outreach-review",
+      "kind": "definition"
+    },
+    {
+      "project": "referral",
+      "sourceKey": "outreach-delivery-requests",
+      "source": "/Volumes/external/projects/referral/server/migrations/001_governed_referral.sql",
+      "canonical": "outreach-delivery-requests",
+      "kind": "definition"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "deals",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies/frontend/src/pages/ExportPage.tsx",
+      "canonical": "deals",
+      "kind": "definition"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "companies",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies/frontend/src/pages/ExportPage.tsx",
+      "canonical": "companies",
+      "kind": "definition"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "contacts",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies/frontend/src/pages/ExportPage.tsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "activities",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies/frontend/src/pages/ExportPage.tsx",
+      "canonical": "crm-activities",
+      "kind": "definition"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "team",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies/frontend/src/pages/SampleDataPage.tsx",
+      "canonical": "team",
+      "kind": "definition"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "notes",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies/frontend/src/pages/SampleDataPage.tsx",
+      "canonical": "notes",
+      "kind": "definition"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "export",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "export",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "msa-redlines",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "msa-redlines",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "security-questionnaires",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "security-questionnaires",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "champion-map",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "champion-map",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "procurement-playbook",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "procurement-playbook",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "pilot-scorecards",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "pilot-scorecards",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "compliance-posture",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "compliance-posture",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "gap/multi-threading-coach",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "multi-threading-coach",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "gap/procurement-decoder",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "procurement-decoder",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "gap/champion-identifier",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "champion-identifier",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "gap/budget-cycle-predictor",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "budget-cycle-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "gap/legal-review-automator",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "legal-review-automator",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "gap/calendar-integration",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "calendar-integration",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "gap/email-sync",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "crm-email-sync",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "gap/revenue-forecast",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "revenue-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "gap/org-chart",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "org-chart",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "gap/call-recording",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "call-recording",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "cf/champion-map",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "champion-map",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "cf/f100-playbook",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "f100-playbook",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "cf/msa-redlines",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "msa-redlines",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "cf/security-questionnaires",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "security-questionnaires",
+      "kind": "route"
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "sourceKey": "cf/pilot-scorecards",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "canonical": "pilot-scorecards",
+      "kind": "route"
+    },
+    {
+      "project": "financialServices_salesforce",
+      "sourceKey": "leads",
+      "source": "/Volumes/external/projects/financialServices_salesforce/migrations/001_governed_sales.sql",
+      "canonical": "leads",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices_salesforce",
+      "sourceKey": "outreach-review",
+      "source": "/Volumes/external/projects/financialServices_salesforce/migrations/001_governed_sales.sql",
+      "canonical": "outreach-review",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices_salesforce",
+      "sourceKey": "outreach-delivery-requests",
+      "source": "/Volumes/external/projects/financialServices_salesforce/migrations/001_governed_sales.sql",
+      "canonical": "outreach-delivery-requests",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-sales-commission-incentive-compensation-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-sales-commission-incentive-compensation-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/ai-sales-outreach/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "login",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/campaigns/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/contacts/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/templates/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/ab-tests/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/integrations/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/team/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/sequences/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/meetings/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/tasks/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/reports/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "settings",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/ai/lead-scores/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/ai/personalizations/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/ai/best-times/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/ai/objections/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "/ai/forecasts/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-sales-outreach",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/ai-sales-outreach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "key": "features",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "key": "health",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIChurnPredictionSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurnPredictionSystem",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICompetitiveAnalysisTool",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICompetitiveAnalysisTool",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/ai-advanced",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/classifications/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/predictions/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/knowledge-suggestions/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/knowledge-suggestions/:id/feedback",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/quality-scores/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/escalation-routings/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/shopping-conversations/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/products/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/orders/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "tickets/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "calls/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "customers/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "categories/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "tags/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "knowledge/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "canned-responses/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "team/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiCustomerSupportAgent",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AiCustomerSupportAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "leads",
+      "key": "account",
+      "source": "/Volumes/external/projects/leads/app/entitlements/page.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "leads",
+      "key": "status",
+      "source": "/Volumes/external/projects/leads/app/entitlements/page.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "leads",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/leads/components/DashboardLayout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "leads",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/leads/components/DashboardLayout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "leads",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/leads",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "leads",
+      "key": "settings",
+      "source": "/Volumes/external/projects/leads",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "luranAI",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "luranAI",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/luranAI/src/components/layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "microsoftDynamics",
+      "key": "login",
+      "source": "/Volumes/external/projects/microsoftDynamics",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "microsoftDynamics",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "referral",
+      "key": "login",
+      "source": "/Volumes/external/projects/referral",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "referral",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "referral",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "key": "login",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "key": "search",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "key": "sample-data",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "startups-selling-to-huge-companies",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/startups-selling-to-huge-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "financialServices_salesforce",
+      "key": "login",
+      "source": "/Volumes/external/projects/financialServices_salesforce",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "financialServices_salesforce",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "financialServices_salesforce",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "project": "ai-customer-implementation-success-manager",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "feature": "compensation-plan-versioning",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "employee-and-territory-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "quota-and-target-management",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "crm-opportunity-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "booking-and-invoice-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "crediting-rule-application",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "split-and-overlay-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "accelerator-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-and-strategic-bonus",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cancellation-and-clawback-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "draw-and-guarantee-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "statement-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "representative-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payroll-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "underpayment-recovery",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "plan-cost-and-behavior-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}
